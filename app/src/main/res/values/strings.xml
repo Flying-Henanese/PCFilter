@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PCFilter</string>
+    <string name="action_settings">Settings</string>
+    <string name="infoTv">Please select softwares</string>
+    <string name="resultTv">The Results as follows</string>
+    <string name="searchBtn">Search</string>
+    <string name="returnBtn">Return</string>
+</resources>
